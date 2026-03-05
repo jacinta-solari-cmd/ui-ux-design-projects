@@ -13,3 +13,7 @@ Enfoque:
 - jerarquía visual
 - experiencia de usuario
 - diseño de interfaces intuitivas
+  
+## Portfolio
+Podés ver mis proyectos completos de diseño UI/UX en Behance:
+https://www.behance.net/jacintasolari1
